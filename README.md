@@ -51,17 +51,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/XeldarAlz/count.svg?"  />
 </div>
-
-###
-
-<h1 align="center">Recently Played:</h1>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/11128421866">
-   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11128421866&count=10&width=600" alt="Spotify recently played" />
-  </a>
-</div>
-
-###
